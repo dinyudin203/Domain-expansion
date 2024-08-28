@@ -35,12 +35,14 @@ RAM 및 GPU 성능 이슈로 QLoRA 사용
 
 ### 결과
 - 라마 사토루
-    - [https://llama3-8b-ko-gojo-demo.vercel.app](https://llama3-8b-ko-gojo-demo.vercel.app/)
+    - [Demo](https://llama3-8b-ko-gojo-demo.vercel.app/)
+    
     ![라마사토루](https://github.com/user-attachments/assets/3a5c822b-53ae-4cb4-ae0e-b432258d73c3)
 
 
 - 솔라 사로투
-    - https://solar-gojo.vercel.app/
+    - [Demo](https://solar-gojo.vercel.app/)
+    
     ![솔라사토루](https://github.com/user-attachments/assets/e81e7d3e-e9bf-47da-b934-99037015a8fa)
 
 
