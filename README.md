@@ -54,4 +54,4 @@ RAM 및 GPU 성능 이슈로 QLoRA 사용
 ## 팀원
 - [정우성*](https://github.com/mung3477): 아이디어 제안, LLaMa3-8b fine-tuning, Demo 개발
 - [김은진](https://github.com/eunbob): Solar-10.7B fine-tuning, Demo 개발
-- [성유진](성유진의 github link): Gemma-2B fine-tuning, Demo 개발
+- [성유진](https://github.com/dinyudin203): Gemma-2B fine-tuning, Demo 개발
